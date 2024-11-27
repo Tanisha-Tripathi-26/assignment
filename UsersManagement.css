@@ -1,0 +1,14 @@
+/* UsersManagement.css */
+.table {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .btn {
+    margin-right: 5px;
+  }
+  
+  .modal-header {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
